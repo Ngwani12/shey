@@ -2,10 +2,10 @@
 dependencies: []
 
 galaxy_info:
-  role_name: docker
-  author: bsmeding
-  description: Docker for Linux, Forked from geerlingguy.docker.
-  company: "b@rtsmeding.nl"
+  role_name: ngwani
+  author: shey
+  description: my first trial
+  company: paradigm
   license: "license (BSD, MIT)"
   min_ansible_version: 2.10
   platforms:
